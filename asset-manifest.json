@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accordion-Component-React/static/css/main.ab700d15.css",
+    "main.js": "/Accordion-Component-React/static/js/main.198cf3f3.js",
+    "index.html": "/Accordion-Component-React/index.html",
+    "main.ab700d15.css.map": "/Accordion-Component-React/static/css/main.ab700d15.css.map",
+    "main.198cf3f3.js.map": "/Accordion-Component-React/static/js/main.198cf3f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab700d15.css",
+    "static/js/main.198cf3f3.js"
+  ]
+}
